@@ -106,3 +106,12 @@ body{
     color:white;
     margin-left: .5%;
  }
+ .sub-container > div:hover{
+    background-color: #010d0b;
+ }
+ #operator:hover{
+    background-color: #0c4043;
+ }
+ #zero + div:hover{
+    background-color: #279e96 ;
+ }
